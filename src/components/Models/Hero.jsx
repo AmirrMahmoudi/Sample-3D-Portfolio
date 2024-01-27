@@ -4,13 +4,14 @@ import {
   useGLTF,
   Html,
   OrthographicCamera,
+  Stats,
 } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
 import * as THREE from "three";
 
-import HeroModal from "../../assets/models/computer_and_laptop.glb";
 import { Suspense, useState } from "react";
-
+import Polyhedron from "./Polyhedron";
+import HeroModal from "../../assets/models/computer_and_laptop.glb";
 const Hero = () => {
   const model = useGLTF(HeroModal);
   return (
@@ -61,6 +62,34 @@ export const HeroSection = () => {
         </Suspense>
         <Preload all />
       </Canvas>
+
+      {/* <Canvas camera={{ position: [-1, 4, 2.5] }}>
+        <directionalLight position={[1, 1, 1, 1]} />
+        <Polyhedron
+          name="meshBasicMaterial"
+          position={[-3, 1, 0]}
+          material={new THREE.MeshBasicMaterial()}
+        />
+        <Polyhedron
+          name="meshNormalMaterial"
+          position={[-1, 1, 0]}
+          material={new THREE.MeshNormalMaterial()}
+        />
+        <Polyhedron
+          name="meshPhongMaterial"
+          position={[1, 1, 0]}
+          material={new THREE.MeshPhongMaterial()}
+        />
+        <Polyhedron
+          name="1eshStandardMaterial"
+          position={[3, 1, 0]}
+          material={new THREE.MeshStandardMaterial()}
+        />
+        <OrbitControls target-y={1} />
+        <axesHelper args={[5]} />
+        <gridHelper />
+        <Stats />
+      </Canvas> */}
     </div>
   );
 };

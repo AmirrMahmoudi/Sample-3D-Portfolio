@@ -9,3 +9,9 @@
 * {
   font-family: iran-sans;
 }
+
+.backgroundColor{
+  background: #8e0300;
+  background: -webkit-linaer-gradient(to right, #1f1c18, #8e0300);
+  background: linear-gradient(to right, #1f1c18, #8e0300);
+}
