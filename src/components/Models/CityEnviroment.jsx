@@ -36,7 +36,7 @@ const CityEnviroment = () => {
         </Html>
         <Html position={[3, -1, -13]}>
           <a href="about">
-            <FcAbout className="text-center text-3xl transition delay-75 hover:text-5xl" />
+            <FcAbout  />
           </a>
         </Html>
       </primitive>
