@@ -1,0 +1,170 @@
+[
+  {
+    "_id": {
+      "$oid": "655dfcc05a863801654a8e4d"
+    },
+    "type": "جدید",
+    "tCustomer": "آزاد",
+    "title": "طراحی سایت فایل استور",
+    "mainImg": "https://assets.plan.io/images/blog/title-IT-project-management-explained.png",
+    "subImg": [
+      {
+        "fieldname": "https://imageio.forbes.com/specials-images/imageserve/5f5a2d56d0844debd57de789/Project-management-concept-with-icons-about-planning-tasks-and-milestones/960x0.jpg?format=jpg&width=960"
+      },
+      {
+        "fieldname": "https://assets.plan.io/images/blog/title-IT-project-management-explained.png"
+      },
+      {
+        "fieldname": "https://imageio.forbes.com/specials-images/imageserve/5f5a2d56d0844debd57de789/Project-management-concept-with-icons-about-planning-tasks-and-milestones/960x0.jpg?format=jpg&width=960"
+      },
+      {
+        "fieldname": "https://smart.itsetad.ir/wp-content/uploads/2022/11/8_920.jpg"
+      }
+    ],
+    "properties": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه",
+    "description": "<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</p>",
+    "link": "https://smart.itsetad.ir/wp-content/uploads/2022/11/8_920.jpg",
+    "writer": "حسین اسدی",
+    "cOpinion": "طراحی سایت فایل استور",
+    "co": "فایلینگ املاک",
+    "logo": "https://web.app.fileestore.ir/img/logo.png",
+    "identity": "مدیر عامل",
+    "desc": "https://web.app.fileestore.ir/img/logo.png",
+    "category": "وب",
+    "slug": "طراحی-سایت-فایل-استور",
+    "hashtags": "#طراحی سایت #طراحی-اپلیکیشن#ربات #دستیار_هوشمند",
+    "createdAt": {
+      "$date": "2023-11-22T12:44:32.806Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T12:44:32.806Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655dfd8a5a863801654a8e53"
+    },
+    "type": "اپلیکیشن فایلینگ",
+    "tCustomer": "آزاد",
+    "title": "اپلیکیشن اندروید فایل استور",
+    "mainImg": "https://www.investopedia.com/thmb/QYWqTkyDW-yfpVsjmAP0Mf2bw2Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/project-management.asp-Final-0c4cd7f77aad40228e7311783c27f728.png",
+    "subImg": [
+      {
+        "fieldname": "https://imageio.forbes.com/specials-images/imageserve/5f5a2d56d0844debd57de789/Project-management-concept-with-icons-about-planning-tasks-and-milestones/960x0.jpg?format=jpg&width=960"
+      },
+      {
+        "fieldname": "https://assets.plan.io/images/blog/title-IT-project-management-explained.png"
+      },
+      {
+        "fieldname": "https://imageio.forbes.com/specials-images/imageserve/5f5a2d56d0844debd57de789/Project-management-concept-with-icons-about-planning-tasks-and-milestones/960x0.jpg?format=jpg&width=960"
+      },
+      {
+        "fieldname": "https://smart.itsetad.ir/wp-content/uploads/2022/11/8_920.jpg"
+      }
+    ],
+    "properties": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه",
+    "description": "<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</p>",
+    "link": "https://the-decoder.com/wp-content/uploads/2023/01/artificial_intelligence_in-war_airforce-scaled.jpg",
+    "writer": "حسین اسدی",
+    "cOpinion": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه",
+    "co": "فایلینگ املاک",
+    "logo": "https://web.app.fileestore.ir/img/logo.png",
+    "identity": "کارفرما",
+    "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه",
+    "category": "اپلیکیشن موبایل",
+    "slug": "اپلیکیشن-اندروید-فایل-استور",
+    "hashtags": "#طراحی سایت #طراحی-اپلیکیشن#ربات #دستیار_هوشمند",
+    "createdAt": {
+      "$date": "2023-11-22T12:44:32.806Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T12:44:32.806Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655dfe8f5a863801654a8e59"
+    },
+    "type": "پزشکی",
+    "tCustomer": "ترکیه پزشک زیبایی",
+    "title": "سایت پزشکی ترانه",
+    "mainImg": "https://images.wsj.net/im-847606?width=700&height=466",
+    "subImg": [
+      {
+        "fieldname": "https://smart.itsetad.ir/wp-content/uploads/2022/11/8_920.jpg"
+      },
+      {
+        "fieldname": "https://assets.plan.io/images/blog/title-IT-project-management-explained.png"
+      },
+      {
+        "fieldname": "https://imageio.forbes.com/specials-images/imageserve/5f5a2d56d0844debd57de789/Project-management-concept-with-icons-about-planning-tasks-and-milestones/960x0.jpg?format=jpg&width=960"
+      },
+      {
+        "fieldname": "https://smart.itsetad.ir/wp-content/uploads/2022/11/8_920.jpg"
+      }
+    ],
+    "properties": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه",
+    "description": "<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</p>",
+    "link": "https://ttarane.com/",
+    "writer": "حسین اسدی",
+    "cOpinion": "https://ttarane.com/",
+    "co": "پزشکی زیبایی",
+    "logo": "https://ttarane.com/backend/CrudPages/uploads/logo/516914.jpg",
+    "identity": "پزشک زیبایی ",
+    "desc": "https://ttarane.com/backend/CrudPages/uploads/logo/516914.jpg",
+    "category": "وب",
+    "slug": "سایت-پزشکی-ترانه",
+    "hashtags": "#طراحی سایت #طراحی-اپلیکیشن#ربات #دستیار_هوشمند",
+    "createdAt": {
+      "$date": "2023-11-22T12:44:32.806Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T12:44:32.806Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655dffc75a863801654a8e5f"
+    },
+    "type": "سایت راهنمایی کاربردی مقاله ای",
+    "tCustomer": "فایل استور",
+    "title": "سایت راهنمایی کاربردی مقاله ای",
+    "mainImg": "https://d540vms5r2s2d.cloudfront.net/mad/uploads/mad_blog_5f353ae76c8e11597324007.png",
+    "subImg": [
+        {
+          "fieldname": "https://smart.itsetad.ir/wp-content/uploads/2022/11/8_920.jpg"
+        },
+        {
+          "fieldname": "https://assets.plan.io/images/blog/title-IT-project-management-explained.png"
+        },
+        {
+          "fieldname": "https://imageio.forbes.com/specials-images/imageserve/5f5a2d56d0844debd57de789/Project-management-concept-with-icons-about-planning-tasks-and-milestones/960x0.jpg?format=jpg&width=960"
+        },
+        {
+          "fieldname": "https://smart.itsetad.ir/wp-content/uploads/2022/11/8_920.jpg"
+        }
+      ],
+    "properties": "لورم ایپسوم متن ساختگی",
+    "description": "<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</p>",
+    "link": "https://supfileestore.ir/",
+    "writer": "حسین اسدی",
+    "cOpinion": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ",
+    "co": "راهنمای فایلینگ",
+    "logo": "https://supfileestore.ir/assets/img/logo.png",
+    "identity": "مدیر عامل",
+    "desc": "سایت راهنمایی کاربردی مقاله ای",
+    "category": "وب",
+    "slug": "سایت-راهنمایی-کاربردی-مقاله ای",
+    "hashtags": "#طراحی سایت #طراحی-اپلیکیشن#ربات #دستیار_هوشمند",
+    "createdAt": {
+      "$date": "2023-11-22T12:44:32.806Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T12:44:32.806Z"
+    },
+    "__v": 0
+  }
+]

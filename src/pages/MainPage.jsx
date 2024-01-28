@@ -4,6 +4,7 @@ import { HeroSection } from "../components/Models/Hero";
 import Forms from "../components/Models/Forms";
 import Skills from "../components/Models/Skills";
 import About from "../components/About";
+import ProjectSection from "../components/Models/ProjectSection";
 
 const MainPage = () => {
   return (
@@ -30,6 +31,7 @@ const MainPage = () => {
       <About />
       <br />
       <hr />
+      <ProjectSection />
     </div>
   );
 };
