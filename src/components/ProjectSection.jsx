@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
-import Data from "../Data.json";
+import Data from "./Data.json";
 const ProjectSection = () => {
   const [projects, setProjects] = useState([]);
   useEffect(() => {

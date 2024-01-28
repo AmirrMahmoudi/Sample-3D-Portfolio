@@ -1,9 +1,9 @@
 import React from "react";
-import { CLang } from "./Clang";
-import { Csharp } from "./Csharp";
-import { Php } from "./Php";
-import { Python } from "./Python";
-import { ReactIcon } from "./ReactIcon";
+import { CLang } from "./Models/Clang";
+import { Csharp } from "./Models/Csharp";
+import { Php } from "./Models/Php";
+import { Python } from "./Models/Python";
+import { ReactIcon } from "./Models/ReactIcon";
 
 function Skills() {
   return (

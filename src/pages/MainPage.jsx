@@ -1,10 +1,11 @@
 import React from "react";
-import Navbar from "./Navbar";
+import Navbar from "../components/Navbar";
 import { HeroSection } from "../components/Models/Hero";
-import Forms from "../components/Models/Forms";
-import Skills from "../components/Models/Skills";
+import Forms from "../components/Forms";
+import Skills from "../components/Skills";
 import About from "../components/About";
-import ProjectSection from "../components/Models/ProjectSection";
+import ProjectSection from "../components/ProjectSection";
+import Footer from "../components/Footer";
 
 const MainPage = () => {
   return (
@@ -32,6 +33,8 @@ const MainPage = () => {
       <br />
       <hr />
       <ProjectSection />
+      <br />
+      <Footer />
     </div>
   );
 };
