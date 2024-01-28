@@ -2,6 +2,8 @@ import React from "react";
 import Navbar from "./Navbar";
 import { HeroSection } from "../components/Models/Hero";
 import Forms from "../components/Models/Forms";
+import Skills from "../components/Models/Skills";
+import About from "../components/About";
 
 const MainPage = () => {
   return (
@@ -21,6 +23,13 @@ const MainPage = () => {
         </div>
         {/* Form */}
       </div>
+      <hr />
+      <Skills />
+      <br />
+      <hr />
+      <About />
+      <br />
+      <hr />
     </div>
   );
 };
