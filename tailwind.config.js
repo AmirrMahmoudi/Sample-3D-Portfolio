@@ -10,6 +10,10 @@ export default {
         lg: "976px",
         xl: "1440px",
       },
+      spacing: {
+        128: "32rem",
+        144: "36rem",
+      },
     },
   },
   plugins: [],

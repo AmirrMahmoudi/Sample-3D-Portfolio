@@ -6,6 +6,7 @@ import {
   useGLTF,
   Html,
   OrthographicCamera,
+  Loader,
 } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
 import cityModel from "../../assets/models/lowpoly_city_in_the_night.glb";
@@ -36,7 +37,7 @@ const CityEnviroment = () => {
         </Html>
         <Html position={[3, -1, -13]}>
           <a href="about">
-            <FcAbout  />
+            <FcAbout />
           </a>
         </Html>
       </primitive>
@@ -54,7 +55,7 @@ export const MyWorkSpace = () => {
   return (
     <div className="h-screen w-full cursor-grabbing bg-gradient-to-r from-blue-950 via-blue-700 to-blue-300">
       <Canvas dpr={[0, 2]} camera={{ position: [-3, 0.5, 30] }}>
-        <Suspense>
+        <Suspense >
           <OrthographicCamera makeDefault zoom={3} position={[2, -100, 900]} />
           <OrbitControls minZoom={1} maxZoom={5} enabled={!isDragging} />
           <CityEnviroment setIsDragging={setIsDragging} floorType={floorType} />
